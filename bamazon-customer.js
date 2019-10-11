@@ -45,7 +45,7 @@ connection.connect(function (err) {
 
           },
           {
-            message: "Please enter the number of widgets you want: ",
+            message: "Please enter the number of items you want: ",
             type: "input",
             name: "userOrderAmount",
 
